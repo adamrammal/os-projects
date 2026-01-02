@@ -1,12 +1,7 @@
 # Operating Systems Projects (xv6-riscv)
 
-This repository is a hub for my Operating Systems coursework projects implemented on **xv6-riscv** (MIT’s Unix-like teaching OS).
+This repository is a hub for my Operating Systems coursework projects implemented on **xv6-riscv** .
 
-References:
-- xv6-riscv (MIT): https://github.com/mit-pdos/xv6-riscv
-- xv6 book (RISC-V): https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf
-
----
 
 ## Projects
 
